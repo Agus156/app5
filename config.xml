@@ -5,7 +5,7 @@ xmlns:gap = "http://phonegap.com/ns/1.0"
 id = "com.phonegap.app5"
 version = "1.0.0">
 
-<name> app3-Advertencia de dispositivo</name>
+<name> app5-Advertencia de dispositivo</name>
 
 <description>
 Aplicacion que realiza la vibracion y beep del Dispositivo
